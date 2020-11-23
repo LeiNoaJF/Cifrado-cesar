@@ -1,0 +1,75 @@
+body{
+    background-image: url("Fondo.png");
+    background-size: 100%;
+}
+.input{
+    width: 300px;
+    font-family:"arial";
+    font-size:18px;
+    line-height:22px;/*ancho*/
+    background-color:#ffffff;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border:1px solid #000000;
+
+}
+  .boton_1{
+    font-size: Humble boys demo;
+    width: 100px;
+    color: rgb(0, 0, 0);
+    background-color: #e5b4ff;
+    padding-top: 5px;
+    margin-left: 30px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border: solid  1px #000000
+  }
+  .boton_1:hover{
+    font-size: Humble boys demo;
+    width: 100px;
+    color: rgb(0, 0, 0);
+    background-color: #feffc2;
+    padding-top: 5px;
+    margin-left: 30px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border: solid  1px #000000
+  }
+
+p{
+    margin-bottom:1px;
+    margin-top: 1px;
+    font-size:18 px; 
+    color: #000000;
+    font-family:  "arial";
+}
+.cosa_rara_que_contiene1{
+    margin-top: 2rem;
+	width:25%;
+	background-color:#def5ff;
+    border: solid  2px #000000;
+    overflow: auto;
+}
+
+.titulo{
+
+    background-color:#ffc8cd;
+    border-bottom: solid  2px #000000;
+    text-align-last: center;
+    margin-bottom:1px;
+    margin-top: 1px;
+    font-size:25px; 
+    color: #000000;
+}
+.titulo2{
+
+    background-color:#ffc8cd;
+    border-bottom: solid  2px #000000;
+    border-top:solid  2px #000000 ;
+    text-align-last: center;
+    margin-bottom:1px;
+    margin-top: 1px;
+    font-size:25px; 
+    color: #000000;
+}
